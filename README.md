@@ -2,9 +2,9 @@
 GD02: Space Colonization Game
  
  Team Member:-
- *Sai Krishna Chillara
- *Rafael Cordero
- *Daishik Kaushik Ghatalia
+ * Sai Krishna Chillara
+ * Rafael Cordero
+ * Daishik Kaushik Ghatalia
  *William Hollingsworth
  *Yuanjun Jin
  *Woobae Kim
